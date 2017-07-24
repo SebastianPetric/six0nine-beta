@@ -1,0 +1,70 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\six0nine\tttttttt_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\six0nine\tttttttt_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\six0nine\tttttttt_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\six0nine\tttttttt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\six0nine\tttttttt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\six0nine\tttttttt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\six0nine\tttttttt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\six0nine\tttttttt_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.990165 ms
+Failed to load 'D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll' with error 'Das angegebene Modul wurde nicht gefunden.
+'.
+ 
+(Filename:  Line: 117)
+
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/.\D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/.\D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/libD:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/.\libD:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/libD:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+Failed to load 'D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll' with error 'Das angegebene Modul wurde nicht gefunden.
+'.
+ 
+(Filename:  Line: 117)
+
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/.\D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/.\D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/libD:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/.\libD:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+Fallback handler could not load library D:/six0nine/tttttttt_Data/Mono/libD:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+DllNotFoundException: D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+  at (wrapper managed-to-native) Windows.Kinect.KinectSensor:Windows_Kinect_KinectSensor_GetDefault ()
+  at Windows.Kinect.KinectSensor.GetDefault () [0x00000] in <filename unknown>:0 
+  at BodySourceManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+DllNotFoundException: D:/six0nine/tttttttt_Data/Plugins/KinectUnityAddin.dll
+  at (wrapper managed-to-native) Windows.Kinect.KinectSensor:Windows_Kinect_KinectSensor_GetDefault ()
+  at Windows.Kinect.KinectSensor.GetDefault () [0x00000] in <filename unknown>:0 
+  at BodySourceManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Joystick disconnected ("Controller (Xbox 360 Wireless Receiver for Windows)").
+ 
+(Filename:  Line: 714)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ca8 -> priority: 1 

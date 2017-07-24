@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: ef9e50e883b3a0343995c1635f838b9d
+timeCreated: 1469108474
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Licht
+    100002: Licht_1
+    100004: Licht_10
+    100006: Licht_11
+    100008: Licht_12
+    100010: Licht_13
+    100012: Licht_14
+    100014: Licht_15
+    100016: Licht_16
+    100018: Licht_2
+    100020: Licht_2_2
+    100022: Licht_3
+    100024: Licht_4
+    100026: Licht_5
+    100028: Licht_6
+    100030: Licht_7
+    100032: Licht_8
+    100034: Licht_9
+    100036: licht_mitte
+    100038: licht_rechts
+    100040: lichtlinks
+    100042: Pilz_1
+    100044: Raum
+    100046: Raum_MeshPart0
+    100048: Raum_MeshPart1
+    100050: Raum_MeshPart2
+    100052: Raum_MeshPart3
+    100054: Raum_MeshPart4
+    100056: Raum_MeshPart5
+    100058: "Schl\xFCssel_ganz"
+    100060: //RootNode
+    400000: Licht
+    400002: Licht_1
+    400004: Licht_10
+    400006: Licht_11
+    400008: Licht_12
+    400010: Licht_13
+    400012: Licht_14
+    400014: Licht_15
+    400016: Licht_16
+    400018: Licht_2
+    400020: Licht_2_2
+    400022: Licht_3
+    400024: Licht_4
+    400026: Licht_5
+    400028: Licht_6
+    400030: Licht_7
+    400032: Licht_8
+    400034: Licht_9
+    400036: licht_mitte
+    400038: licht_rechts
+    400040: lichtlinks
+    400042: Pilz_1
+    400044: Raum
+    400046: Raum_MeshPart0
+    400048: Raum_MeshPart1
+    400050: Raum_MeshPart2
+    400052: Raum_MeshPart3
+    400054: Raum_MeshPart4
+    400056: Raum_MeshPart5
+    400058: "Schl\xFCssel_ganz"
+    400060: //RootNode
+    2300000: Pilz_1
+    2300002: Raum_MeshPart0
+    2300004: Raum_MeshPart1
+    2300006: Raum_MeshPart2
+    2300008: Raum_MeshPart3
+    2300010: Raum_MeshPart4
+    2300012: Raum_MeshPart5
+    2300014: "Schl\xFCssel_ganz"
+    3300000: Pilz_1
+    3300002: Raum_MeshPart0
+    3300004: Raum_MeshPart1
+    3300006: Raum_MeshPart2
+    3300008: Raum_MeshPart3
+    3300010: Raum_MeshPart4
+    3300012: Raum_MeshPart5
+    3300014: "Schl\xFCssel_ganz"
+    4300000: "Schl\xFCssel_ganz"
+    4300002: Pilz_1
+    4300004: Raum_MeshPart0
+    4300006: Raum_MeshPart1
+    4300008: Raum_MeshPart2
+    4300010: Raum_MeshPart3
+    4300012: Raum_MeshPart4
+    4300014: Raum_MeshPart5
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
